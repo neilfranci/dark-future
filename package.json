@@ -2,7 +2,7 @@
   "name": "dark-future",
   "displayName": "dark-future",
   "publisher": "NeilFR",
-  "description": "",
+  "description": "This theme is a modification of the built-in 'Default Dark Modern' theme to make C# code appear more readable.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.91.0"
