@@ -1,0 +1,22 @@
+{
+  "name": "dark-future",
+  "displayName": "dark-future",
+  "publisher": "NeilFR",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Future",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Future-color-theme.json"
+      }
+    ]
+  }
+}
